@@ -14,7 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 namespace LogementWS
-{
+{//test
     public class Startup
     {
         public Startup(IConfiguration configuration)
